@@ -1,0 +1,6 @@
+streamlit
+geocoder
+folium
+streamlit-folium
+requests
+emoji
